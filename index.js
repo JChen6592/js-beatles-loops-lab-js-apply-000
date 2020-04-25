@@ -1,4 +1,7 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  for (i = 0; )
+  var sentences = [] 
+  for (i = 0; i < musicians.length; i++) {
+    sentences.append(`${musicians[i]} plays ${instruments[i]`)
+  }
 }
