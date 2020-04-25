@@ -22,8 +22,8 @@ function iLoveTheBeatles(){
   var loveMessage = "I love the Beatles!"
   let i = 0
   do {
-    i++
     loveBeatlesArray.push(loveMessage)
+    i++;
   } while (i < 15)
   return loveBeatlesArray
 }
