@@ -24,6 +24,6 @@ function iLoveTheBeatles(){
   do {
     loveBeatlesArray.push(loveMessage)
     i++;
-  } while (i < 15)
+  } while (i < 8)
   return loveBeatlesArray
 }
