@@ -1,4 +1,4 @@
 // add solution here
 function theBeatlesPlay(musicians, instruments) {
-  for (var )
+  for (i = 0; )
 }
